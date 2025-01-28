@@ -1,3 +1,5 @@
+(forked as a backup, in case something were to happen to the original...)
+
 # keycloak-hcaptcha
 
 > I am currently not adding any new features, updates or fixes. Feel free to open a PR!
